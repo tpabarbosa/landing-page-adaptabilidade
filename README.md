@@ -9,6 +9,10 @@ Esta landing page consiste em uma página estática cujo conteúdo apresenta o c
 
 Para preencher os textos em tela, foi utilizado a biblioteca **mdxc** que importa arquivos *markdown* como componentes *React*.
 
+### Link do projeto
+[adaptabilidade • //](https://landing-page-adaptabilidade.vercel.app/)
+
+
 ## Construído com
 * [ReactJs](https://pt-br.reactjs.org/)
 
