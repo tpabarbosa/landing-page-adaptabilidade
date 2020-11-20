@@ -1,6 +1,5 @@
-<p align="left">
-    <img src="assets/banner.svg" alt="Banner">
-</p>
+<img src="assets/banner.svg" alt="Banner" />
+
 # landing-page-adaptabilidade
 Projeto desenvolvido como desafio proposto durante a Expansion Week do curso GoStack da Rocketseat :rocket:.
 
